@@ -1,0 +1,7 @@
+The following are the packages needed to run the notebook:
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- scipy
+- jupyter
