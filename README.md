@@ -53,6 +53,8 @@ applied_statistics/
 │
 
 └── Histograms/
+
     ├── Petal Length Normal Distribution.png
+    
     └── Petal Length Distributions by Species.png
 
